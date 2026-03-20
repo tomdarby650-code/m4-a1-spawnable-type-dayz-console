@@ -1,0 +1,82 @@
+M4A1 spawnable types
+
+                <attachments chance="1.00">
+			<item name="M4A1" chance="0.50" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="M4_CQBBttstck" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="M4_RISHndgrd_Black" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Glock19" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="TTSKOPants" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="TTsKOJacket_Camo" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="AliceBag_Black" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="WitchHood_Black" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="PlateCarrierVest_Camo" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+                
+                
